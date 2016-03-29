@@ -112,7 +112,6 @@ $scope.reloadPage = function() {
 <body ng-controller="MyCtrl">
   <ion-header-bar class="bar-positive">
   <h1 class="title">hrz_test</h1>
-  <div class="buttons">button_test</div>
   <div class="buttons">
     <button class="button ion-refresh" ng-click="reloadPage()"></button>
   </div>
